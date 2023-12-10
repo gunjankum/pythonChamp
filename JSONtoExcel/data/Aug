@@ -1,0 +1,1574 @@
+{
+          "key" : "b15b3f53",
+          "doc_count" : 1634,
+          "Single_datapoint" : {
+            "value" : 1.8337711E7
+          },
+          "rule_evaluation" : {
+            "value" : 6400.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 6435642.0
+          },
+          "stream_datapoint" : {
+            "value" : 2627379.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.7407364E7
+          }
+        },
+        {
+          "key" : "0a6378ef",
+          "doc_count" : 569,
+          "Single_datapoint" : {
+            "value" : 4.8134795E7
+          },
+          "rule_evaluation" : {
+            "value" : 560420.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 977518.0
+          },
+          "stream_datapoint" : {
+            "value" : 181312.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 4.9854045E7
+          }
+        },
+        {
+          "key" : "f5983f71",
+          "doc_count" : 544,
+          "Single_datapoint" : {
+            "value" : 5.7648743E7
+          },
+          "rule_evaluation" : {
+            "value" : 359224.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 2.0058867E7
+          },
+          "stream_datapoint" : {
+            "value" : 9094098.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 8.7161062E7
+          }
+        },
+        {
+          "key" : "0dfc7900",
+          "doc_count" : 416,
+          "Single_datapoint" : {
+            "value" : 1063.0
+          },
+          "rule_evaluation" : {
+            "value" : 10596.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 534.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 20029.0
+          }
+        },
+        {
+          "key" : "41a3ba7f",
+          "doc_count" : 348,
+          "Single_datapoint" : {
+            "value" : 2.4196731E7
+          },
+          "rule_evaluation" : {
+            "value" : 7748.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 7759162.0
+          },
+          "stream_datapoint" : {
+            "value" : 3331943.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 3.5295587E7
+          }
+        },
+        {
+          "key" : "43b4c50a",
+          "doc_count" : 275,
+          "Single_datapoint" : {
+            "value" : 5.9516592E7
+          },
+          "rule_evaluation" : {
+            "value" : 645667.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 7.731839E7
+          },
+          "stream_datapoint" : {
+            "value" : 3.569927E7
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.732138E8
+          }
+        },
+        {
+          "key" : "0c46757f",
+          "doc_count" : 237,
+          "Single_datapoint" : {
+            "value" : 5.990767E7
+          },
+          "rule_evaluation" : {
+            "value" : 177206.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 626515.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 6.0714086E7
+          }
+        },
+        {
+          "key" : "71538015",
+          "doc_count" : 237,
+          "Single_datapoint" : {
+            "value" : 2.0548392E7
+          },
+          "rule_evaluation" : {
+            "value" : 78956.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 1039457.0
+          },
+          "stream_datapoint" : {
+            "value" : 983201.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.2650006E7
+          }
+        },
+        {
+          "key" : "f624d97f",
+          "doc_count" : 214,
+          "Single_datapoint" : {
+            "value" : 1.7551613E7
+          },
+          "rule_evaluation" : {
+            "value" : 58250.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 1239578.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.886597E7
+          }
+        },
+        {
+          "key" : "5c4a0302",
+          "doc_count" : 208,
+          "Single_datapoint" : {
+            "value" : 2.1284488E8
+          },
+          "rule_evaluation" : {
+            "value" : 141402.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 870.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.12987152E8
+          }
+        },
+        {
+          "key" : "8c506437",
+          "doc_count" : 188,
+          "Single_datapoint" : {
+            "value" : 920822.0
+          },
+          "rule_evaluation" : {
+            "value" : 4144.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 62478.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 991623.0
+          }
+        },
+        {
+          "key" : "32795e59",
+          "doc_count" : 179,
+          "Single_datapoint" : {
+            "value" : 6201229.0
+          },
+          "rule_evaluation" : {
+            "value" : 8832.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 190087.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 2.8400989E7
+          },
+          "Total_Count" : {
+            "value" : 3.4825455E7
+          }
+        },
+        {
+          "key" : "39a9391a",
+          "doc_count" : 137,
+          "Single_datapoint" : {
+            "value" : 1386.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 241.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1627.0
+          }
+        },
+        {
+          "key" : "68b4a9a9",
+          "doc_count" : 135,
+          "Single_datapoint" : {
+            "value" : 2.3825628E7
+          },
+          "rule_evaluation" : {
+            "value" : 7510.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 111594.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.4030488E7
+          }
+        },
+        {
+          "key" : "aacb0798",
+          "doc_count" : 134,
+          "Single_datapoint" : {
+            "value" : 1.40375668E8
+          },
+          "rule_evaluation" : {
+            "value" : 457494.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 770536.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.41603698E8
+          }
+        },
+        {
+          "key" : "483519e9",
+          "doc_count" : 130,
+          "Single_datapoint" : {
+            "value" : 3069133.0
+          },
+          "rule_evaluation" : {
+            "value" : 3778.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 54246.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 3143941.0
+          }
+        },
+        {
+          "key" : "bf947d56",
+          "doc_count" : 120,
+          "Single_datapoint" : {
+            "value" : 1916666.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1916666.0
+          }
+        },
+        {
+          "key" : "713c1480",
+          "doc_count" : 119,
+          "Single_datapoint" : {
+            "value" : 2.6405421E7
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.6405421E7
+          }
+        },
+        {
+          "key" : "a75bb384",
+          "doc_count" : 105,
+          "Single_datapoint" : {
+            "value" : 5767996.0
+          },
+          "rule_evaluation" : {
+            "value" : 5643.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 944512.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 6718151.0
+          }
+        },
+        {
+          "key" : "7d69ec1a",
+          "doc_count" : 91,
+          "Single_datapoint" : {
+            "value" : 7.1642596E7
+          },
+          "rule_evaluation" : {
+            "value" : 484.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 29668.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 7.1672748E7
+          }
+        },
+        {
+          "key" : "968a5933",
+          "doc_count" : 89,
+          "Single_datapoint" : {
+            "value" : 4.6286623E7
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 4.6286623E7
+          }
+        },
+        {
+          "key" : "555d4d41",
+          "doc_count" : 87,
+          "Single_datapoint" : {
+            "value" : 43175.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 43175.0
+          }
+        },
+        {
+          "key" : "beaa3bd7",
+          "doc_count" : 87,
+          "Single_datapoint" : {
+            "value" : 4733314.0
+          },
+          "rule_evaluation" : {
+            "value" : 4884.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 115.0
+          },
+          "stream_datapoint" : {
+            "value" : 34.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 4738347.0
+          }
+        },
+        {
+          "key" : "849bb51b",
+          "doc_count" : 86,
+          "Single_datapoint" : {
+            "value" : 1.84502462E8
+          },
+          "rule_evaluation" : {
+            "value" : 826768.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 3608129.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.88937904E8
+          }
+        },
+        {
+          "key" : "a02140e5",
+          "doc_count" : 81,
+          "Single_datapoint" : {
+            "value" : 1.4301304E7
+          },
+          "rule_evaluation" : {
+            "value" : 35052.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 1091947.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.5468321E7
+          }
+        },
+        {
+          "key" : "26c55b8f",
+          "doc_count" : 62,
+          "Single_datapoint" : {
+            "value" : 3.23130315E8
+          },
+          "rule_evaluation" : {
+            "value" : 12.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 3.23130327E8
+          }
+        },
+        {
+          "key" : "53086a56",
+          "doc_count" : 62,
+          "Single_datapoint" : {
+            "value" : 10004.0
+          },
+          "rule_evaluation" : {
+            "value" : 31.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 2157.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 12192.0
+          }
+        },
+        {
+          "key" : "6c4bf96a",
+          "doc_count" : 62,
+          "Single_datapoint" : {
+            "value" : 118484.0
+          },
+          "rule_evaluation" : {
+            "value" : 83.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 1401.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 120216.0
+          }
+        },
+        {
+          "key" : "bafa24dc",
+          "doc_count" : 62,
+          "Single_datapoint" : {
+            "value" : 3112051.0
+          },
+          "rule_evaluation" : {
+            "value" : 369.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 159774.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 3280915.0
+          }
+        },
+        {
+          "key" : "0d902645",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 2.6274679E7
+          },
+          "rule_evaluation" : {
+            "value" : 18167.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.6292846E7
+          }
+        },
+        {
+          "key" : "132d4043",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 2.497542E7
+          },
+          "rule_evaluation" : {
+            "value" : 1.0
+          },
+          "sms" : {
+            "value" : 648450.0
+          },
+          "rule_execution" : {
+            "value" : 1050.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 2275898.0
+          },
+          "Total_Count" : {
+            "value" : 2.7900819E7
+          }
+        },
+        {
+          "key" : "6b6885bc",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 23196.0
+          },
+          "rule_evaluation" : {
+            "value" : 11.0
+          },
+          "sms" : {
+            "value" : 2125970.0
+          },
+          "rule_execution" : {
+            "value" : 5270.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2154447.0
+          }
+        },
+        {
+          "key" : "99c55035",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 19852.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 19852.0
+          }
+        },
+        {
+          "key" : "b87c65e3",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 1057901.0
+          },
+          "rule_evaluation" : {
+            "value" : 1536.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 301428.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1377334.0
+          }
+        },
+        {
+          "key" : "c6e75706",
+          "doc_count" : 60,
+          "Single_datapoint" : {
+            "value" : 6.8817649E7
+          },
+          "rule_evaluation" : {
+            "value" : 93725.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 648126.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 6.95595E7
+          }
+        },
+        {
+          "key" : "776ddecc",
+          "doc_count" : 59,
+          "Single_datapoint" : {
+            "value" : 115609.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 115609.0
+          }
+        },
+        {
+          "key" : "e47af0f1",
+          "doc_count" : 59,
+          "Single_datapoint" : {
+            "value" : 1.9740042E7
+          },
+          "rule_evaluation" : {
+            "value" : 66.0
+          },
+          "sms" : {
+            "value" : 353430.0
+          },
+          "rule_execution" : {
+            "value" : 1642.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 2.009518E7
+          }
+        },
+        {
+          "key" : "499b2e09",
+          "doc_count" : 58,
+          "Single_datapoint" : {
+            "value" : 4.3599458E7
+          },
+          "rule_evaluation" : {
+            "value" : 1.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 1059.0
+          },
+          "stream_datapoint" : {
+            "value" : 18657.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 4.3619175E7
+          }
+        },
+        {
+          "key" : "f6af8de0",
+          "doc_count" : 58,
+          "Single_datapoint" : {
+            "value" : 27178.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 27178.0
+          }
+        },
+        {
+          "key" : "d70b5148",
+          "doc_count" : 56,
+          "Single_datapoint" : {
+            "value" : 545.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 545.0
+          }
+        },
+        {
+          "key" : "e90904d8",
+          "doc_count" : 55,
+          "Single_datapoint" : {
+            "value" : 278787.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 278787.0
+          }
+        },
+        {
+          "key" : "f2bba7c0",
+          "doc_count" : 44,
+          "Single_datapoint" : {
+            "value" : 356.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 113.0
+          },
+          "stream_datapoint" : {
+            "value" : 57.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 526.0
+          }
+        },
+        {
+          "key" : "1adffb61",
+          "doc_count" : 33,
+          "Single_datapoint" : {
+            "value" : 6.9736801E7
+          },
+          "rule_evaluation" : {
+            "value" : 316.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 227.0
+          },
+          "stream_datapoint" : {
+            "value" : 31630.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 6.9775255E7
+          }
+        },
+        {
+          "key" : "0ceff4ae",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 169428.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 169428.0
+          }
+        },
+        {
+          "key" : "190d11a5",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 9467349.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 9467349.0
+          }
+        },
+        {
+          "key" : "229b963f",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 35784.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 114.0
+          },
+          "Total_Count" : {
+            "value" : 35898.0
+          }
+        },
+        {
+          "key" : "2ccd738e",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 334485.0
+          },
+          "rule_evaluation" : {
+            "value" : 28.0
+          },
+          "sms" : {
+            "value" : 284130.0
+          },
+          "rule_execution" : {
+            "value" : 1381.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 620024.0
+          }
+        },
+        {
+          "key" : "3987f5be",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 17042.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 17042.0
+          }
+        },
+        {
+          "key" : "3a293660",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 210731.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 210731.0
+          }
+        },
+        {
+          "key" : "3b42b5c1",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 312673.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 312673.0
+          }
+        },
+        {
+          "key" : "48a85cba",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 575409.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 575409.0
+          }
+        },
+        {
+          "key" : "6197b5c8",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 401684.0
+          },
+          "rule_evaluation" : {
+            "value" : 25.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 7782.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 409491.0
+          }
+        },
+        {
+          "key" : "77b23879",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 40595.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 40595.0
+          }
+        },
+        {
+          "key" : "82b20903",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 53328.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 53328.0
+          }
+        },
+        {
+          "key" : "cd084e94",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 66205.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 66205.0
+          }
+        },
+        {
+          "key" : "d3ff9b61",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 1871390.0
+          },
+          "rule_evaluation" : {
+            "value" : 116.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 12.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 5945.0
+          },
+          "Total_Count" : {
+            "value" : 1877463.0
+          }
+        },
+        {
+          "key" : "eefd7b41",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 5.4505312E7
+          },
+          "rule_evaluation" : {
+            "value" : 20771.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 2.078858E7
+          },
+          "stream_datapoint" : {
+            "value" : 9442132.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 8.4756795E7
+          }
+        },
+        {
+          "key" : "f4774967",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 1236535.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1236535.0
+          }
+        },
+        {
+          "key" : "fa74603c",
+          "doc_count" : 30,
+          "Single_datapoint" : {
+            "value" : 30.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 30.0
+          }
+        },
+        {
+          "key" : "96e7aee3",
+          "doc_count" : 29,
+          "Single_datapoint" : {
+            "value" : 1046663.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1046663.0
+          }
+        },
+        {
+          "key" : "b355838f",
+          "doc_count" : 29,
+          "Single_datapoint" : {
+            "value" : 1.1582651E7
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 1.1582651E7
+          }
+        },
+        {
+          "key" : "1e24aafd",
+          "doc_count" : 20,
+          "Single_datapoint" : {
+            "value" : 26.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 26.0
+          }
+        },
+        {
+          "key" : "3d42875e",
+          "doc_count" : 1,
+          "Single_datapoint" : {
+            "value" : 13.0
+          },
+          "rule_evaluation" : {
+            "value" : 0.0
+          },
+          "sms" : {
+            "value" : 0.0
+          },
+          "rule_execution" : {
+            "value" : 0.0
+          },
+          "stream_datapoint" : {
+            "value" : 0.0
+          },
+          "Batch_datapoint" : {
+            "value" : 0.0
+          },
+          "Total_Count" : {
+            "value" : 13.0
+          }

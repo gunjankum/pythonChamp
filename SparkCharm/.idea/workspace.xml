@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb2a2751-c83d-4a05-95d5-7b2c9e9803ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JSONtoExcel/conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSONtoExcel/data/Aug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PysparkGunjan/pythonPractise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PysparkGunjan/spark1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/DSA/Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/DSA/DuplicateNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/DSA/GreaterElementRight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/DSA/MissingNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/DSA/TwoMissingNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/General/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Mission/Prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Mission/func/funcTest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/dsa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/exception-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/files-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/funcTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/input-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/miscl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/basics/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/add-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/add_numbers-func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/area-triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/fact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/odd-even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/postive-or-negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/random_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/single_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/practise/swat_2_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/DatesPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/JoinPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/ManuallDataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/MoreFuncs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/MySchema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/PyAgg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/PyUDF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/PysparkMission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/PysparkTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/pyspark/SparkFunctions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2V6En4efCwKjdudiDLtenDg89dI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2a2751-c83d-4a05-95d5-7b2c9e9803ef" name="Changes" comment="" />
+      <created>1694148292490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694148292490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
